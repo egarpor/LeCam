@@ -14,12 +14,6 @@ Marc Hallin, emeritus professor at Université libre de Bruxelles and [Excellenc
 
 TODO.
 
-
-| Parla | Getafe | Madrid | Alcobendas |
-|:---:|:---:|:---:|:---:|
-
-
-
 ## About Marc Hallin
 
 TODO.
@@ -113,8 +107,10 @@ The easiest way to get to Getafe from Madrid is *Cercanías* line **C-4**, eithe
 
 
 | Parla | Getafe | Madrid | Alcobendas |
-|:---:|:---:|:---:|:---:|
+|:-----:|:------:|:------:|:----------:|
 
+| Speaker | Looks like? | Affiliation | Date | Topic |
+|:-------:|:-----------:|:-----------:|:----:|:-----:|
 
 
 
