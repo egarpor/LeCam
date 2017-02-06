@@ -105,12 +105,12 @@ The registration is **free of charge**, but is **mandatory to sign up in advance
 
 The easiest way to get to Getafe from Madrid is *Cercanías* line **C-4**, either departing from *Sol*, *Atocha* or *Nuevos Ministerios*. The closest stops to the UC3M campus are *Las Margaritas* or *Getafe Centro*, both at a 14 minutes walking distance. The direction towards Madrid is either *Alcobendas-San Sebastián de los Reyes* or *Colmenar Viejo*; the direction towards Getafe is *Parla*. This is a schematic representation of the line:
 
-| Parla | Getafe | Madrid | Alcobendas S.S. de los Reyes  Colmenar Viejo |
+| Parla | Getafe | Madrid | Alcobendas-S.S. de los Reyes / Colmenar Viejo |
 |:---:|:---:|:---:|:---:|
 
 Recall that line C-3 also goes through Getafe but the train stop (*Getafe industrial*) is *far away* from the campus.
 
-## Accomodation
+## Meals and accomodation
 
 TODO.
 
