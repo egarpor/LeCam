@@ -17,6 +17,8 @@ TODO.
 ## About Marc Hallin
 
 TODO.
+| Parla | Getafe | Madrid | Alcobendas-S.S. de los Reyes / Colmenar Viejo |
+|:---:|:---:|:---:|:---:|
 
 ## Workshop schedule
 
