@@ -1,6 +1,6 @@
 ## Overview
 
-Marc Hallin, emeritus professor at Université libre de Bruxelles and [Excellence Chair 2017](http://www.uc3m.es/ss/Satellite/UC3MInstitucional/es/TextoMixta/1371224147744/) at the Carlos III University of Madrid (UC3M), will give on the 22-24th of May a monographic workshop in Le Cam's asymptotic theory of statistical experiments. The workshop is organized by the [Department of Statistics](http://portal.uc3m.es/portal/page/portal/dpto_estadistica/home) of [Carlos III University of Madrid](http://www.uc3m.es).
+Marc Hallin, emeritus professor at Université libre de Bruxelles and [Excellence Chair 2017](http://www.uc3m.es/ss/Satellite/UC3MInstitucional/es/TextoMixta/1371224147744/) at the [Carlos III University of Madrid](http://www.uc3m.es) (UC3M), will give on the 22-24th of May a monographic workshop in Le Cam's asymptotic theory of statistical experiments. The workshop is organized by the [Department of Statistics](http://portal.uc3m.es/portal/page/portal/dpto_estadistica/home) of UC3M.
 
 <center>
 <img style="width:100%;" id="March UC3M" src="https://raw.githubusercontent.com/egarpor/nonparamarch/master/images/march2.jpg?token=ABNl9quGFSC6xeZ2IWvx7i3ylQnjP08rks5YoevwwA%3D%3D">
@@ -15,7 +15,7 @@ Marc Hallin, emeritus professor at Université libre de Bruxelles and [Excellenc
 TODO.
 
 
-| Parla | Getafe | Madrid | Alcobendas-S.S. de los Reyes / Colmenar Viejo |
+| Parla | Getafe | Madrid | Alcobendas |
 |:---:|:---:|:---:|:---:|
 
 
@@ -112,8 +112,10 @@ The registration is **free of charge**, but is **mandatory to sign up in advance
 The easiest way to get to Getafe from Madrid is *Cercanías* line **C-4**, either departing from *Sol*, *Atocha* or *Nuevos Ministerios*. The closest stops to the UC3M campus are *Las Margaritas* or *Getafe Centro*, both at a 14 minutes walking distance. The direction towards Madrid is either *Alcobendas-San Sebastián de los Reyes* or *Colmenar Viejo*; the direction towards Getafe is *Parla*. This is a schematic representation of the line:
 
 
-| Parla | Getafe | Madrid | Alcobendas-S.S. de los Reyes / Colmenar Viejo |
+| Parla | Getafe | Madrid | Alcobendas |
 |:---:|:---:|:---:|:---:|
+
+
 
 
 Recall that line C-3 also goes through Getafe but the train stop (*Getafe industrial*) is *far away* from the campus.
