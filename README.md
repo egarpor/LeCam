@@ -20,7 +20,7 @@ TODO.
 
 ## Workshop schedule
 
-The **12 hours** workshop will take place in the **22nd, 23rd and 24th of May** and consists of two sessions per day: 9:00 - 11:00 and 12:00 - 14:00. The language of the workshop will be **English**.
+The **12 hours** workshop will take place in the **22nd, 23rd and 24th of May** and consists of two sessions per day: 9:00-11:00 and 12:00-14:00. The language of the workshop will be **English**.
  
 Lessons are to be held in *Sala Costas Goutis* 10.0.23 in the Getafe campus of UC3M. The classroom is located at the ground floor of building 10 (*Campomanes*). The exact coordinates are given in the map below.
 
@@ -105,14 +105,7 @@ The registration is **free of charge**, but is **mandatory to sign up in advance
 
 The easiest way to get to Getafe from Madrid is *Cercanías* line **C-4**, either departing from *Sol*, *Atocha* or *Nuevos Ministerios*. The closest stops to the UC3M campus are *Las Margaritas* or *Getafe Centro*, both at a 14 minutes walking distance. The direction towards Madrid is either *Alcobendas-San Sebastián de los Reyes* or *Colmenar Viejo*; the direction towards Getafe is *Parla*. This is a schematic representation of the line:
 
-
-| Parla | Getafe | Madrid | Alcobendas |
-|:-----:|:------:|:------:|:----------:|
-
-| Speaker | Looks like? | Affiliation | Date | Topic |
-|:-------:|:-----------:|:-----------:|:----:|:-----:|
-
-
+| Parla | Getafe | Madrid | Alcobendas-S.S. de los Reyes / Colmenar Viejo |
 
 Recall that line C-3 also goes through Getafe but the train stop (*Getafe industrial*) is *far away* from the campus.
 
