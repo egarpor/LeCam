@@ -10,13 +10,15 @@ Marc Hallin, emeritus professor at Université libre de Bruxelles and [Excellenc
 </center>
 <br>
 
-## About Le Cam's theory and the workshop
+## About Le Cam's work
 
-TODO.
+Lucien Le Cam (1924-2000) was one of the great mathematical statisticians of the twentieth century. Le Cam obtained his PhD from the University of Berkeley, where he spent almost all his career. A short and incomplete description of Le Cam's work was given in his [obituary in the IMS bulletin](http://www.stat.berkeley.edu/~rice/LeCam/obituary.html):
+
+> Le Cam was a principal architect of the modern asymptotic theory of statistics. His life-work was a coherent theory of statistics in which asymptotic "approximations" played a strong role. [...] Le Cam's most widely-recognized contributions were the Local Asymptotic normality condition (LAN) in 1960, the contiguity concept and its consequences, and simple one-step constructions of asymptotically optimal estimates. Around 1970, Jaroslav Hájek and Nobuo Inagaki independently formulated the convolution theorem for parametric estimation. Using Le Cam's LAN concept, Hájek proved the convolution theorem and, in another paper, the local asymptotic minimax theorem under elegantly minimal assumptions. These theorems, as well as Hájek's earlier use of contiguity in studying rank tests, revealed to others the remarkable potential in Le Cam's ideas and popularized them. [...] Le Cam's monumental work on asymptotics culminated in his "big" book, *Asymptotic Methods in Statistical Decision Theory*, which was published in 1986. Through formal comparison of statistical experiments by means of the Le Cam distance and deficiency, the book quantifies the extent to which two statistical problems are similar and the extent to which a procedure approximately efficient in one problem can be mapped into a procedure approximately efficient in the other. 
 
 ## About Marc Hallin
 
-TODO.
+Marc Hallin holds a PhD in Sciences & Mathematics from the Université libre de Bruxelles (1976). His main research interests are in mathematical statistics (asymptotics, time series, and rank-based inference) and econometrics (high-dimensional time series and factor models). He is the author or coauthor of about **200 publications** in mathematical statistics and econometrics. He has been Editor-in-Chief of the International Statistical Review, and is Editor-in-Chief of Statistical Inference for Stochastic Processes. He is also on the editorial boards of the Journal of the American Statistical Association, the Journal of Econometrics, the Annals of Computational and Financial Econometrics, the Journal of the Japan Statistical Society, and the Annales de l'Institut de Statistique de l'Université de Paris. A Fellow of the Institute of Mathematical Statistics (IMS), the American Statistical Association (ASA), and the International Statistical Institute (ISI), he is member of the Classe des Sciences of the Royal Academy of Belgium.
 
 ## Workshop schedule
 
@@ -99,7 +101,7 @@ Lessons are to be held in *Sala Costas Goutis* 10.0.23 in the Getafe campus of U
 
 ## Registration and certificate
 
-The registration is **free of charge**, but is **mandatory to sign up in advance**. To that end, send an email to <edgarcia@est-econ.uc3m.es> with the subject "Le Cam workshop registration". Participants attending to **all** the sessions will receive a certificate.
+The registration is **free of charge**, but is **mandatory to sign up in advance**. To that end, send an email to <slinares@pa.uc3m.es> with the subject "Le Cam workshop registration". Participants attending to **all** the sessions will receive a certificate.
 
 ## How to get to Getafe
 
@@ -113,10 +115,11 @@ Recall that line C-3 also goes through Getafe but the train stop (*Getafe indust
 
 TODO.
 
-## Scientific and organizing comittee
+## Organization 
 
-[Esther Ruíz Ortega](http://portal.uc3m.es/portal/page/portal/dpto_estadistica/personal/esther_ruiz_ortega) and [Eduardo García Portugués](https://egarpor.github.io).
+- Scientific comittee: Esther Ruíz Ortega, Eduardo García Portugués and Thomas Verdebout.
+- Organizing comittee: Esther Ruíz Ortega, Eduardo García Portugués and Susana Linares.
 
 ## Contact
 
-In case of questions, you may contact <edgarcia@est-econ.uc3m.es>.
+In case of questions, you may contact <edgarcia@est-econ.uc3m.es> or <slinares@pa.uc3m.es>.
