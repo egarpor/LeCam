@@ -13,13 +13,14 @@ Marc Hallin, emeritus professor at Université libre de Bruxelles and [Excellenc
 <br>
 
 <i>The Department of Statistics at UC3M (Getafe)</i>
-<br>
 </center>
+<br>
 
 ## About Le Cam's work
 
 <center>
 <img style="width:50%;" id="Lucien Le Cam" src="https://raw.githubusercontent.com/egarpor/LeCam/master/images/lecam.jpg?token=ABNl9mYGBSsM72JWjV2lz55BlTPv-bfGks5Yox7-wA%3D%3D">
+
 </center>
 <br>
 
@@ -31,6 +32,7 @@ Lucien Le Cam (1924-2000) was one of the **greatest mathematical statisticians o
 
 <center>
 <img style="width:50%;" id="Marc Hallin" src="https://raw.githubusercontent.com/egarpor/LeCam/master/images/marc.jpg?token=ABNl9ownVVy1lv4vIXU2_eIKqv0zGT_bks5Yox9gwA%3D%3D">
+
 </center>
 <br>
 
