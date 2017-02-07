@@ -1,7 +1,7 @@
 title: Topics in Le Cam's Asymptotic Theory of Statistical Experiments
 email: edgarcia@est-econ.uc3m.es
 description: > # this means to ignore newlines until "baseurl:"
-  A monographic workshop devoted to topics in Le Cam's asymptotic theory. Some of the topics covered are
+  A monographic workshop devoted to Le Cam's asymptotic theory. Some of the topics covered are:
   local asymptotic normality and contiguity, convergence of statistical experiments, 
   locally asymptotically optimal testing, and locally asymptotically optimal estimation.
 baseurl: "" # the subpath of your site, e.g. /blog
