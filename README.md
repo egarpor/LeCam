@@ -13,6 +13,7 @@ Marc Hallin, emeritus professor at Université libre de Bruxelles and [Excellenc
 <br>
 
 <i>The Department of Statistics at UC3M (Getafe)</i>
+<br>
 </center>
 
 ## About Le Cam's work
@@ -20,9 +21,6 @@ Marc Hallin, emeritus professor at Université libre de Bruxelles and [Excellenc
 <center>
 <img style="width:50%;" id="Lucien Le Cam" src="https://raw.githubusercontent.com/egarpor/LeCam/master/images/lecam.jpg?token=ABNl9mYGBSsM72JWjV2lz55BlTPv-bfGks5Yox7-wA%3D%3D">
 <br>
-
-<i>Lucien Le Cam</i>
-
 </center>
 
 Lucien Le Cam (1924-2000) was one of the **greatest mathematical statisticians of the twentieth century**. Le Cam obtained his PhD from the University of Berkeley, where he spent almost all his academic career. A short and incomplete description of Le Cam's work was given in his [obituary in the IMS bulletin](http://www.stat.berkeley.edu/~rice/LeCam/obituary.html):
@@ -34,9 +32,6 @@ Lucien Le Cam (1924-2000) was one of the **greatest mathematical statisticians o
 <center>
 <img style="width:50%;" id="Marc Hallin" src="https://raw.githubusercontent.com/egarpor/LeCam/master/images/marc.jpg?token=ABNl9ownVVy1lv4vIXU2_eIKqv0zGT_bks5Yox9gwA%3D%3D">
 <br>
-
-<i>Marc Hallin</i>
-
 </center>
 
 Marc Hallin holds a PhD in Sciences & Mathematics from the Université libre de Bruxelles (1976). His main research interests are in mathematical statistics (asymptotics, time series, and rank-based inference) and econometrics (high-dimensional time series and factor models). He is the author or coauthor of about **200 publications** in mathematical statistics and econometrics. He has been Editor-in-Chief of the International Statistical Review, and is Editor-in-Chief of Statistical Inference for Stochastic Processes. He is also on the editorial boards of the Journal of the American Statistical Association, the Journal of Econometrics, the Annals of Computational and Financial Econometrics, the Journal of the Japan Statistical Society, and the Annales de l'Institut de Statistique de l'Université de Paris. A Fellow of the Institute of Mathematical Statistics (IMS), the American Statistical Association (ASA), and the International Statistical Institute (ISI), he is member of the Classe des Sciences of the Royal Academy of Belgium.
