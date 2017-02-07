@@ -113,7 +113,7 @@ Recall that line C-3 also goes through Getafe but the train stop (*Getafe indust
 
 ## Meals and accomodation
 
-TODO.
+There is a convenient canteen quite close to the department. More information on meals and accomodation will be available close to the workshop dates.
 
 ## Organization 
 
