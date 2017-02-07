@@ -42,9 +42,9 @@ Lucien Le Cam (1924-2000) was one of the **greatest mathematical statisticians o
 
 Marc Hallin holds a PhD in Sciences & Mathematics from the Université libre de Bruxelles (1976). His main research interests are in mathematical statistics (asymptotics, time series, and rank-based inference) and econometrics (high-dimensional time series and factor models). He is the author or coauthor of about **200 publications** in mathematical statistics and econometrics. He has been Editor-in-Chief of the International Statistical Review, and is Editor-in-Chief of Statistical Inference for Stochastic Processes. He is also on the editorial boards of the Journal of the American Statistical Association, the Journal of Econometrics, the Annals of Computational and Financial Econometrics, the Journal of the Japan Statistical Society, and the Annales de l'Institut de Statistique de l'Université de Paris. A Fellow of the Institute of Mathematical Statistics (IMS), the American Statistical Association (ASA), and the International Statistical Institute (ISI), he is member of the Classe des Sciences of the Royal Academy of Belgium.
 
-## Workshop schedule
+## Workshop program
 
-The **12 hours** workshop will take place in the **22nd, 23rd and 24th of May** and consists of two sessions per day: 9:00-11:00 and 12:00-14:00. The language of the workshop will be **English**.
+The **12 hours** workshop will take place in the **22nd, 23rd and 24th of May** and consists of two sessions per day: 9:00-11:00 and 12:00-14:00. The language of the workshop will be **English**. The topics covered include: local asymptotic normality and contiguity, convergence of statistical experiments, locally asymptotically optimal testing, and locally asymptotically optimal estimation.
  
 Lessons are to be held in *Sala Costas Goutis* 10.0.23 in the Getafe campus of UC3M. The classroom is located at the ground floor of building 10 (*Campomanes*). The exact coordinates are given in the map below.
 
