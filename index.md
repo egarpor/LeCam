@@ -11,7 +11,7 @@ title: Topics in Le Cam's Asymptotic Theory of Statistical Experiments
 
 ## Overview
 
-Marc Hallin, emeritus professor at Université libre de Bruxelles and [Excellence Chair 2017](http://www.uc3m.es/ss/Satellite/UC3MInstitucional/es/TextoMixta/1371224147744/) at the [Carlos III University of Madrid](http://www.uc3m.es) (UC3M), will give on the 22-24th of May a monographic workshop in Le Cam's asymptotic theory of statistical experiments. The workshop is organized by the [Department of Statistics](http://portal.uc3m.es/portal/page/portal/dpto_estadistica/home) of UC3M.
+Marc Hallin, emeritus professor at Université libre de Bruxelles and [Excellence Chair 2017](http://www.uc3m.es/ss/Satellite/UC3MInstitucional/es/TextoMixta/1371224147744/) at the [Carlos III University of Madrid](http://www.uc3m.es) (UC3M), will give on the **22-24th of May** a monographic workshop in Le Cam's asymptotic theory of statistical experiments. The workshop is organized by the [Department of Statistics](http://www.uc3m.es/statistics) of UC3M.
 
 <center>
 <img style="width:100%;" id="March UC3M" src="images/march2.jpg">
@@ -45,9 +45,11 @@ Marc Hallin holds a PhD in Sciences & Mathematics from the Université libre de 
 
 ## Workshop program
 
-The **12 hours** workshop will take place in the **22nd, 23rd and 24th of May** and consists of two sessions per day: 9:00-11:00 and 12:00-14:00. The language of the workshop will be **English**. The topics covered include: local asymptotic normality and contiguity, convergence of statistical experiments, locally asymptotically optimal testing, and locally asymptotically optimal estimation.
+The **12 hours** workshop will take place in the **22nd, 23rd and 24th of May** and consists of two sessions per day: **9:00-11:00 and 12:00-14:00**. The language of the workshop will be **English**. 
+
+The **topics** covered include: local asymptotic normality and contiguity, convergence of statistical experiments, locally asymptotically optimal testing, and locally asymptotically optimal estimation. The course will be carried out in an **old school way: blackboard, chalk and math.**
  
-Lessons are to be held in *Sala Costas Goutis* 10.0.23 in the Getafe campus of UC3M. The classroom is located at the ground floor of building 10 (*Campomanes*). The exact coordinates are given in the map below.
+Lessons are to be held in clasroom 10.1.06 of the Getafe campus of UC3M. The classroom is located at the first floor of building 10 (*Campomanes*). The exact coordinates are given in the map below.
 
 <style>
     #map {
@@ -69,7 +71,7 @@ Lessons are to be held in *Sala Costas Goutis* 10.0.23 in the Getafe campus of U
             zoom: 17,
 
             // The latitude and longitude to center the map (always required)
-            center: new google.maps.LatLng(40.315099, -3.725728),
+            center: new google.maps.LatLng(40.314164, -3.726256),
 
             // How you would like to style the map.
             // This is where you would paste any style found on Snazzy Maps.
@@ -87,13 +89,13 @@ Lessons are to be held in *Sala Costas Goutis* 10.0.23 in the Getafe campus of U
         var markerUC3M = new google.maps.Marker({
             position: new google.maps.LatLng(40.314107, -3.726073),
             map: map,
-            title:"Sala Costas Goutis 10.0.23"
+            title:"Aula 10.1.06"
         });
 
         //Content structure of info Window for the Markers
         var contentStringUC3M = $('<div class="marker-info-win">'+
         '<div class="marker-inner-win"><span class="info-content">'+
-        '<strong>Sala Costas Goutis 10.0.23<\/strong>'+
+        '<strong>Aula 10.1.06<\/strong>'+
         '<\/span>'+
         '<\/div><\/div>');
 
@@ -124,25 +126,23 @@ Lessons are to be held in *Sala Costas Goutis* 10.0.23 in the Getafe campus of U
 
 ## Registration and certificate
 
-The registration is **free of charge**, but is **mandatory to sign up in advance**. To that end, send an email to <slinares@pa.uc3m.es> with the subject "Le Cam workshop registration". Participants attending to **all** the sessions will receive a certificate.
+The registration is **free of charge**, but is **mandatory to sign up in advance**. To register, [**fill in this form**](https://goo.gl/forms/HVXbnL5p53OiAEzI3). Participants attending to **all** the sessions will receive a certificate.
+
+The **registration deadline is the 10th of May**.
 
 ## How to get to Getafe
 
-The easiest way to get to Getafe from Madrid is *Cercanías* line **C-4**, either departing from *Sol*, *Atocha* or *Nuevos Ministerios*. The closest stops to the UC3M campus are *Las Margaritas* or *Getafe Centro*, both at a 14 minutes walking distance. The direction towards Madrid is either *Alcobendas-San Sebastián de los Reyes* or *Colmenar Viejo*; the direction towards Getafe is *Parla*. This is a schematic representation of the line:
+The easiest way to get to Getafe from Madrid is *Cercanías* line **C-4**, either departing from *Sol*, *Atocha*, *Nuevos Ministerios* or *Chamartín*. The closest stops to the UC3M campus are *Las Margaritas* or *Getafe Centro*, both at a 14 minutes walking distance. The direction towards Madrid is either *Alcobendas-San Sebastián de los Reyes* or *Colmenar Viejo*; the direction towards Getafe is *Parla*. This is a schematic representation of the line:
 
 | Parla | Getafe | Madrid | Alcobendas-S.S. de los Reyes / Colmenar V. |
 
 Recall that line C-3 also goes through Getafe but the train stop (*Getafe industrial*) is *far away* from the campus.
 
-## Meals and accomodation
+## Organization
 
-There is a convenient canteen quite close to the department. More information on meals and accomodation will be available close to the workshop dates.
-
-## Organization 
-
-- Scientific comittee: Esther Ruíz Ortega, Eduardo García Portugués and Thomas Verdebout.
-- Organizing comittee: Esther Ruíz Ortega, Eduardo García Portugués and Susana Linares.
+- Scientific comittee: Esther Ruíz Ortega (UC3M), Eduardo García Portugués (UC3M) and Thomas Verdebout (Université Libre de Bruxelles).
+- Organizing comittee: Esther Ruíz Ortega (UC3M), Eduardo García Portugués (UC3M) and Susana Linares (UC3M).
 
 ## Contact
 
-In case of questions, you may contact <edgarcia@est-econ.uc3m.es> or <slinares@pa.uc3m.es>.
+In case of questions, you may contact <slinares@pa.uc3m.es> or <edgarcia@est-econ.uc3m.es>.
