@@ -11,7 +11,7 @@ title: Topics in Le Cam's Asymptotic Theory of Statistical Experiments
 
 ## Overview
 
-Marc Hallin, emeritus professor at Université libre de Bruxelles and [Excellence Chair 2017](http://www.uc3m.es/ss/Satellite/UC3MInstitucional/es/TextoMixta/1371224147744/) at the [Carlos III University of Madrid](http://www.uc3m.es) (UC3M), will give on the **22-24th of May** a monographic workshop in Le Cam's asymptotic theory of statistical experiments. The workshop is organized by the [Department of Statistics](http://www.uc3m.es/statistics) of UC3M.
+Marc Hallin, emeritus professor at Université libre de Bruxelles and [Excellence Chair 2017](http://www.uc3m.es/ss/Satellite/UC3MInstitucional/es/TextoMixta/1371224147744/) at the [Carlos III University of Madrid](http://www.uc3m.es) (UC3M), will give on the 22-24th of May a monographic workshop in Le Cam's asymptotic theory of statistical experiments. The workshop is organized by the [Department of Statistics](http://www.uc3m.es/statistics) of UC3M.
 
 <center>
 <img style="width:100%;" id="March UC3M" src="images/march2.jpg">
@@ -45,7 +45,7 @@ Marc Hallin holds a PhD in Sciences & Mathematics from the Université libre de 
 
 ## Workshop program
 
-The **12 hours** workshop will take place in the **22nd, 23rd and 24th of May** and consists of two sessions per day: **9:00-11:00 and 12:00-14:00**. The language of the workshop will be **English**. 
+The **12 hours** workshop will take place in the **22nd, 23rd and 24th of May** and consists of two sessions per day: **9:00-11:00** and **12:00-14:00**. The language of the workshop will be English. 
 
 The **topics** covered include: local asymptotic normality and contiguity, convergence of statistical experiments, locally asymptotically optimal testing, and locally asymptotically optimal estimation. The course will be carried out in an **old school way: blackboard, chalk and math.**
  
@@ -67,11 +67,11 @@ Lessons are to be held in clasroom 10.1.06 of the Getafe campus of UC3M. The cla
         // For more options see: https://developers.google.com/maps/documentation/javascript/reference#MapOptions
         var mapOptions = {
 
-            // How zoomed in you want the map to start at (always required)
+    		  // How zoomed in you want the map to start at (always required)
             zoom: 17,
 
             // The latitude and longitude to center the map (always required)
-            center: new google.maps.LatLng(40.314164, -3.726256),
+            center: new google.maps.LatLng(40.315099, -3.725728),
 
             // How you would like to style the map.
             // This is where you would paste any style found on Snazzy Maps.
@@ -126,7 +126,7 @@ Lessons are to be held in clasroom 10.1.06 of the Getafe campus of UC3M. The cla
 
 ## Registration and certificate
 
-The registration is **free of charge**, but is **mandatory to sign up in advance**. To register, [**fill in this form**](https://goo.gl/forms/HVXbnL5p53OiAEzI3). Participants attending to **all** the sessions will receive a certificate.
+The registration is free of charge, but is mandatory to sign up in advance. To register, [fill in this form](https://goo.gl/forms/HVXbnL5p53OiAEzI3). Participants attending to all the sessions will receive a certificate.
 
 The **registration deadline is the 10th of May**.
 
@@ -136,12 +136,12 @@ The easiest way to get to Getafe from Madrid is *Cercanías* line **C-4**, eithe
 
 | Parla | Getafe | Madrid | Alcobendas-S.S. de los Reyes / Colmenar V. |
 
-Recall that line C-3 also goes through Getafe but the train stop (*Getafe industrial*) is *far away* from the campus.
+Recall that line C-3 also goes through Getafe but the train stop (*Getafe industrial*) is far away from the campus.
 
 ## Organization
 
-- Scientific comittee: Esther Ruíz Ortega (UC3M), Eduardo García Portugués (UC3M) and Thomas Verdebout (Université Libre de Bruxelles).
-- Organizing comittee: Esther Ruíz Ortega (UC3M), Eduardo García Portugués (UC3M) and Susana Linares (UC3M).
+- Scientific comittee: Eduardo García Portugués, Esther Ruíz Ortega and Thomas Verdebout.
+- Organizing comittee: Eduardo García Portugués, Esther Ruíz Ortega (chair) and Susana Linares (secretary).
 
 ## Contact
 
