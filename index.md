@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Topics in Le Cam's Asymptotic Theory of Statistical Experiments
+title: An Introduction to Le Cam's Asymptotic Theory of Statistical Experiments
 ---
 
 <center>
