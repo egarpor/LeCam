@@ -143,6 +143,14 @@ Recall that line C-3 also goes through Getafe but the train stop (*Getafe indust
 - Scientific comittee: Eduardo García Portugués, Esther Ruíz Ortega and Thomas Verdebout.
 - Organizing comittee: Eduardo García Portugués, Esther Ruíz Ortega (chair) and Susana Linares (secretary).
 
+## Funding
+
+The workshop is funded and supported by:
+
+- [School of Law and Social Sciences, Carlos III University of Madrid](http://www.uc3m.es/ss/Satellite/UC3MInstitucional/en/TextoMixta/1371206568086/School_of_Law_and_Social_Sciences)
+- [Department of Statistics, Carlos III University of Madrid](http://portal.uc3m.es/portal/page/portal/dpto_estadistica)
+- [Carlos III University of Madrid](http://www.uc3m.es/)
+
 ## Contact
 
 In case of questions, you may contact <slinares@pa.uc3m.es> or <edgarcia@est-econ.uc3m.es>.
