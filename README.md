@@ -1,4 +1,4 @@
-Website for the course-workshop *"An Introduction to Le Cam's Asymptotic Theory of Statistical Experiments"*. The website is available at <http://www.est.uc3m.es/lecam> (alternatively: <https://egarpor.github.io/lecam/>).
+Website for the workshop-course *"An Introduction to Le Cam's Asymptotic Theory of Statistical Experiments"*. The website is available at <http://www.est.uc3m.es/lecam> (alternatively: <https://egarpor.github.io/lecam/>).
 
 Update workflow:
 
