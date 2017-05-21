@@ -45,11 +45,11 @@ Marc Hallin holds a PhD in Sciences & Mathematics from the Université libre de 
 
 ## Workshop program
 
-The **12 hours** workshop will take place in the **22nd, 23rd and 24th of May** and consists of two sessions per day: **9:00-11:00** and **12:00-14:00**. The language of the workshop will be English. 
+The **12 hours** workshop will take place in the **22nd, 23rd and 24th of May** and consists of **4 hours per day**, to be held from 9:00 to 14:00. The language of the workshop will be English. 
 
 The **topics** covered include: local asymptotic normality and contiguity, convergence of statistical experiments, locally asymptotically optimal testing, and locally asymptotically optimal estimation. The course will be carried out in an **old school way: blackboard, chalk and math.**
  
-Lessons are to be held in clasroom 10.1.06 of the Getafe campus of UC3M. The classroom is located at the first floor of building 10 (*Campomanes*). The exact coordinates are given in the map below.
+Lessons are to be held in clasroom **10.1.06** of the Getafe campus of UC3M. The classroom is located at the first floor of building 10 (*Campomanes*). The exact coordinates are given in the map below.
 
 <style>
     #map {
