@@ -45,7 +45,7 @@ Marc Hallin holds a PhD in Sciences & Mathematics from the Université libre de 
 
 ## Workshop program
 
-The **12 hours** workshop will take place in the **22nd, 23rd and 24th of May** and consists of **4 hours per day**, to be held from 9:00 to 14:00. The language of the workshop will be English. 
+The **12 hours** workshop will take place in the **22nd, 23rd and 24th of May** and consists of **4 hours per day**, allocated between 9:00 and 14:00. The language of the workshop will be English. 
 
 The **topics** covered include: local asymptotic normality and contiguity, convergence of statistical experiments, locally asymptotically optimal testing, and locally asymptotically optimal estimation. The course will be carried out in an **old school way: blackboard, chalk and math.**
  
