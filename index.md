@@ -11,7 +11,7 @@ title: An Introduction to Le Cam's Asymptotic Theory of Statistical Experiments
 
 ## Overview
 
-Marc Hallin, emeritus professor at Université libre de Bruxelles and [Excellence Chair 2017](http://www.uc3m.es/ss/Satellite/UC3MInstitucional/es/TextoMixta/1371224147744/) at the [Carlos III University of Madrid](http://www.uc3m.es) (UC3M), will give on the 22-24th of May a monographic workshop in Le Cam's asymptotic theory of statistical experiments. The workshop is organized by the [Department of Statistics](http://www.uc3m.es/statistics) of UC3M.
+Marc Hallin, emeritus professor at Université libre de Bruxelles and [Excellence Chair 2017](http://www.uc3m.es/ss/Satellite/UC3MInstitucional/es/TextoMixta/1371224147744/) at the [Carlos III University of Madrid](http://www.uc3m.es) (UC3M), will give on the 22-24th of May 2017 a monographic workshop in Le Cam's asymptotic theory of statistical experiments. The workshop is organized by the [Department of Statistics](http://www.uc3m.es/statistics) of UC3M.
 
 <center>
 <img style="width:100%;" id="March UC3M" src="images/march2.jpg">
@@ -45,7 +45,7 @@ Marc Hallin holds a PhD in Sciences & Mathematics from the Université libre de 
 
 ## Workshop program
 
-The **12 hours** workshop will take place in the **22nd, 23rd and 24th of May** and consists of **4 hours per day**, allocated between 9:00 and 14:00. The language of the workshop will be English. 
+The **12 hours** workshop will take place in the **22nd, 23rd and 24th of May 2017** and consists of **4 hours per day**, allocated between 9:00 and 14:00. The language of the workshop will be English. 
 
 The **topics** covered include: local asymptotic normality and contiguity, convergence of statistical experiments, locally asymptotically optimal testing, and locally asymptotically optimal estimation. The course will be carried out in an **old school way: blackboard, chalk and math.**
  
@@ -128,7 +128,7 @@ Lessons are to be held in clasroom **10.1.06** of the Getafe campus of UC3M. The
 
 The registration is free of charge, but is mandatory to sign up in advance. To register, [fill in this form](https://goo.gl/forms/HVXbnL5p53OiAEzI3). Participants attending to all the sessions will receive a certificate.
 
-The **registration deadline is the 10th of May**.
+The **registration deadline is the 10th of May 2017**.
 
 ## How to get to Getafe
 
